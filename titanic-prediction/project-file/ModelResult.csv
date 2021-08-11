@@ -1,0 +1,6 @@
+,Model,Score
+0,Support Vector Machines,68.39
+1,KNN,85.26
+2,Random Forest,93.03
+3,Naive Bayes,77.95
+4,Decision Tree,93.03
